@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contact Utils</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="Contact">Contact</string>
+    <string name="Save_Contact">SelectedSaveContact</string>
+
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+</resources>
